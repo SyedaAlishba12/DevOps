@@ -1,0 +1,2 @@
+Adding some test notes
+Practicing Git changes and commits
